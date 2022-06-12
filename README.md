@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erikdahlqvist
+- 👀 I’m interested in programming, geography & networking
+- 🌱 I’m currently learning rust & modern javascript
