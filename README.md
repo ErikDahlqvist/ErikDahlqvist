@@ -1,11 +1,11 @@
 ## 👋 Hi there, i'm @erikdahlqvist
 
 ### About Me
-- I am a student 👨‍🎓 from Sweden 🇸🇪
+- I am a student from Sweden 🇸🇪
 
 - I am fluent in English 🇬🇧 and Swedish 🇸🇪, and currently learning Spanish 🇪🇸
 
-- Currently running Debian Unstable 🔥 (Primary PC), Debian Stable 🗻 (Server), and MacOS 🍎 and Asahi Linux 🌄 (MacBook Air M1)
+- Currently running Arch (btw...) (Primary PC), Debian Stable (Server), and MacOS & Asahi Linux (MacBook Air M1)
 
 ### Tools 🔨 and Languages 📢 I use
 <div>
