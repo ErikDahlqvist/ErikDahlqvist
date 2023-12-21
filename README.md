@@ -1,9 +1,9 @@
 ## 👋 Hi there, i'm @erikdahlqvist
 
 ### About Me
-- I am a student from Sweden 🇸🇪
+- I am a student and freelance developer from Sweden 🇸🇪
 
-- I am fluent in English 🇬🇧 and Swedish 🇸🇪, and currently learning Spanish 🇪🇸
+- I am fluent in English 🇬🇧 and Swedish 🇸🇪
 
 - Currently running Arch (btw...) (Primary PC), Debian Stable (Server), and MacOS & Asahi Linux (MacBook Air M1)
 
@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title"Flutter" alt="Flutter" width="40" height="40"/>
 </div>
