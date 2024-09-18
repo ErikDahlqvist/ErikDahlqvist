@@ -5,7 +5,7 @@
 
 - I am fluent in English 🇬🇧 and Swedish 🇸🇪
 
-- Currently running Arch (btw...) (Primary PC), Debian Stable (Server), and MacOS & Asahi Linux (MacBook Air M1)
+- Currently running Fedora (Primary PC and laptop), Debian Stable (Server), and MacOS & Asahi Linux (MacBook Air M1)
 
 ### Tools 🔨 and Languages 📢 I use
 <div>
